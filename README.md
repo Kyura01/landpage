@@ -1,2 +1,2 @@
-# landpage
-repositori untuk mencoba bikin landpage web
+test aja
+
